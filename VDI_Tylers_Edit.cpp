@@ -2,7 +2,6 @@
  * Operating Systems Project: VDI
  * Authors
  * Tyler Weatherby
- * Zachary Cornell
  * Date: 04-28-2017
  */
 #include <string>
